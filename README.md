@@ -16,4 +16,4 @@ Bu projede bir e-ticaret sitesinde kullanıcıların satın alma alışkanlıkla
 - `stats.json` → İstatistik verisi
 
 Rapor
-Tüm proje detayları için `Rapor.pdf` dosyasını inceleyiniz.
+Tüm proje detayları için zip.li dosyasını inceleyiniz.
